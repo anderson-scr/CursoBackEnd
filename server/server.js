@@ -12,11 +12,6 @@ const port = 5000;
 // #endregion
 
 // #region Rotas GET
-app.get("/", (req, res) => {
-  console.log("me chamou")
-  res.status(200).json({teste: "teste"})
-})
-
 app.get('/listarTodosProdutos', (req, res) => {
   const id = req.query.id
   if(req.query.id == undefined) {
