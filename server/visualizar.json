@@ -1,0 +1,92 @@
+[
+    {
+        "id_func": 1,
+        "Nome_func": "João Silva",
+        "Telefone_func": "(11) 1234-5678",
+        "Email_func": "joao.silva@email.com",
+        "Cargo_func": 1,
+        "Data_contrato_func": "2023-07-01",
+        "Endereco_func": "1"
+    },
+    {
+        "id_func": 2,
+        "Nome_func": "Maria Santos",
+        "Telefone_func": "(22) 9876-5432",
+        "Email_func": "maria.santos@email.com",
+        "Cargo_func": 2,
+        "Data_contrato_func": "2022-11-15",
+        "Endereco_func": "2"
+    },
+    {
+        "id_func": 3,
+        "Nome_func": "Pedro Rocha",
+        "Telefone_func": "(33) 5555-4444",
+        "Email_func": "pedro.rocha@email.com",
+        "Cargo_func": 3,
+        "Data_contrato_func": "2023-03-20",
+        "Endereco_func": "3"
+    },
+    {
+        "id_func": 4,
+        "Nome_func": "Ana Oliveira",
+        "Telefone_func": "(44) 2222-1111",
+        "Email_func": "ana.oliveira@email.com",
+        "Cargo_func": 4,
+        "Data_contrato_func": "2022-09-10",
+        "Endereco_func": "4"
+    },
+    {
+        "id_func": 5,
+        "Nome_func": "Carlos Pereira",
+        "Telefone_func": "(55) 8888-9999",
+        "Email_func": "carlos.pereira@email.com",
+        "Cargo_func": 5,
+        "Data_contrato_func": "2023-05-05",
+        "Endereco_func": "5"
+    },
+    {
+        "id_func": 6,
+        "Nome_func": "Mariana Costa",
+        "Telefone_func": "(66) 7777-3333",
+        "Email_func": "mariana.costa@email.com",
+        "Cargo_func": 6,
+        "Data_contrato_func": "2022-12-18",
+        "Endereco_func": "6"
+    },
+    {
+        "id_func": 7,
+        "Nome_func": "Ricardo Sousa",
+        "Telefone_func": "(77) 4444-6666",
+        "Email_func": "ricardo.sousa@email.com",
+        "Cargo_func": 7,
+        "Data_contrato_func": "2023-01-25",
+        "Endereco_func": "7"
+    },
+    {
+        "id_func": 8,
+        "Nome_func": "Camila Gomes",
+        "Telefone_func": "(88) 3333-7777",
+        "Email_func": "camila.gomes@email.com",
+        "Cargo_func": 8,
+        "Data_contrato_func": "2022-10-05",
+        "Endereco_func": "8"
+    },
+    {
+        "id_func": 9,
+        "Nome_func": "Gustavo Almeida",
+        "Telefone_func": "(99) 6666-2222",
+        "Email_func": "gustavo.almeida@email.com",
+        "Cargo_func": 9,
+        "Data_contrato_func": "2023-02-12",
+        "Endereco_func": "9"
+    },
+    {
+        "id_func": 10,
+        "Nome_func": "Laura Santos",
+        "Telefone_func": "(12) 7777-8888",
+        "Email_func": "laura.santos@email.com",
+        "Cargo_func": 10,
+        "Data_contrato_func": "2022-08-30",
+        "Endereco_func": "10"
+    }
+]

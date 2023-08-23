@@ -1,0 +1,22 @@
+/* #region resets */
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: none;
+    height: 100vh;
+    background-color: darkslategrey;
+}
+/* #endregion */
+
+.border {
+    border: 1px solid red;
+}
+.form-group label {
+    color: #fff;
+    font-size: 20px;
+}
+.pesquisaProdutos h3 {
+    color: #fff;
+}
